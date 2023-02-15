@@ -1,5 +1,5 @@
 # Daily-Journal
-It is a blogging website in which a user can post their thoughts and ideas.
+It is a dynamic blogging website in which a user can post their thoughts and ideas.
 
 
 
